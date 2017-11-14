@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/mawcel/.android/build-cache/dd710129064a07331452bd57d6794d029a695ce9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/home/mawcel/Projects/eve-control-android/app/build/intermediates/pre-dexed/debug/classes_b9df04138345b23c88d27f77d87769db49190ac2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mawcel/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.8.3/65fd012581ded67bc20945d85c32b4598c3a9cf1/jsoup-1.8.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="65fd012581ded67bc20945d85c32b4598c3a9cf1">
+        <dex dex="/home/mawcel/Projects/eve-control-android/app/build/intermediates/pre-dexed/debug/jsoup-1.8.3_19d3c915ff3b59985119b21bef6b3b0b64719920.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mawcel/.android/build-cache/a0903c39fe16b4a44631a58079988254884ba719/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/home/mawcel/Projects/eve-control-android/app/build/intermediates/pre-dexed/debug/classes_9c25c70103284a5b084408baa5ee9e8c87359b81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mawcel/.android/build-cache/80401853906a12f1296f52b1dec773edfa5f30a3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/home/mawcel/Projects/eve-control-android/app/build/intermediates/pre-dexed/debug/classes_decde406b5cf39b18025a713ebd09f828c421138.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mawcel/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/mawcel/Projects/eve-control-android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_0fd211388382238261e536c64e1de819afc2b6e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mawcel/.android/build-cache/9fd744caadb3d1f9a9e83a77045acee97de7d84a/output/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/mawcel/Projects/eve-control-android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_3de50ffec690493620094c945ba59e3fac753d05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mawcel/.android/build-cache/d78c10a3cca709ed28ee6384b709626a5d3041f6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/home/mawcel/Projects/eve-control-android/app/build/intermediates/pre-dexed/debug/classes_8dde1070838710f765c8bbfd1e18f4156073cd5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mawcel/.android/build-cache/9fd744caadb3d1f9a9e83a77045acee97de7d84a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/mawcel/Projects/eve-control-android/app/build/intermediates/pre-dexed/debug/classes_7e56954f5a9532a3872d79fa652be30930346246.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mawcel/.android/build-cache/dad58487c77f91ea3fb229449e1be22206b9f481/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/home/mawcel/Projects/eve-control-android/app/build/intermediates/pre-dexed/debug/classes_d6f50d0993af0db827c4d0cc2edc78560d510918.jar" />
+    </item>
+
+</items>
