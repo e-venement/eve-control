@@ -9,7 +9,7 @@ Once the form submitted, the app will connect to the instance's server and displ
 
 During use, the app will automatically re-authenticate the user on server periodically to keep the session alive as long as needed.
 
-<a href="https://f-droid.org/packages/fr.librinfo.evecontrol2/" target="_blank">
+<a href="https://f-droid.org/packages/com.evenement.encapsulation/" target="_blank">
 <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="90"/></a>
 
 Installation :
